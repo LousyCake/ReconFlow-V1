@@ -50,13 +50,25 @@ This project is intended for use by security professionals and students for lawf
 
 ## Quick Demo / Screenshots
 
-> Replace these with actual screenshots in `./screenshots/` and reference them here.
+### Home Page
+![Home Page](screenshots/1.png)
 
-- `screenshots/landing-page.png` — Hero and search card  
-- `screenshots/dashboard.png` — Scan results & widgets  
-- `screenshots/report-sample.png` — Generated PDF example
+### Report Preview
+![Report Preview](screenshots/6.png)
 
-_Add images to the repo and update these references for a polished README._
+### Dashboard (Stats)
+![Dashboard Stats](screenshots/3.png)
+
+### Dashboard (Findings)
+![Dashboard Findings](screenshots/4.png)
+
+### Empty Dashboard State
+![Empty Dashboard](screenshots/2.png)
+
+### Search Input View
+![Search Input View](screenshots/5.png)
+
+
 
 ---
 
